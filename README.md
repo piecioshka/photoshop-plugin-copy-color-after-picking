@@ -1,6 +1,6 @@
 # photoshop-plugin-copy-color-after-picking
 
-> :package: :tulip: :art: :nut_and_bolt:  Copy hex color after picking in Adobe Photoshop®
+> :package: :tulip: :art: :nut_and_bolt: Copy hex color after picking in Adobe Photoshop®
 
 ## How it works?
 
@@ -40,6 +40,7 @@
 
     * `macOS Sierra` - :white_check_mark:
     * `macOS High Sierra` - :white_check_mark:
+    * `Windows 10 x64` -  :white_check_mark:
 
 ## Helpful resources
 
