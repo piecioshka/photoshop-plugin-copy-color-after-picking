@@ -1,18 +1,18 @@
 # photoshop-plugin-copy-color-after-picking
 
-> :package: :tulip: :art: :nut_and_bolt: Copy hex color after picking in Adobe Photoshop®
+:package: :tulip: :art: :nut_and_bolt: Copy hex color after picking in Adobe Photoshop®
 
-## How it works?
+## How it works? 🚀
 
 ![](./images/demo.gif)
 
-## Installation `Approach no. 1` (better)
+## Installation `Method no. 1` (better)
 
 1. Double-click of `src/install.jsx` from the `Mac Finder` or `Windows Explorer`
 2. Accept prompt: `Do you want to run the script?` by click "YES"
 3. Restart `Adobe Photoshop ®`
 
-## Installation `Approach no. 2` (alternative)
+## Installation `Method no. 2` (alternative)
 
 1. Open directory in Finder:
 
@@ -81,4 +81,4 @@ Try to look on: https://github.com/majman/adobe-scripts-panel
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2018
+[The MIT License](https://piecioshka.mit-license.org) @ 2018
