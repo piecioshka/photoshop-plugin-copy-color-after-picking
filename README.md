@@ -81,4 +81,4 @@ Try to look on: https://github.com/majman/adobe-scripts-panel
 
 ## License
 
-[The MIT License](https://piecioshka.mit-license.org) @ 2018
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
